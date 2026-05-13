@@ -4,7 +4,7 @@ SyncCare is a low-bandwidth collaborative reminder, communication, and synchroni
 
 ## Repository Layout
 
-- `backend/` - Spring Boot 3 + Java 21 backend baseline (security-first, REST/WebSocket ready)
+- `backend/` - Spring Boot 3 + Java 17 backend baseline (security-first, REST/WebSocket ready)
 - `frontend/` - React Native TypeScript architecture scaffold for local-first mobile features
 
 ## Current Bootstrap Status
