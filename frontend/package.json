@@ -1,0 +1,10 @@
+{
+  "name": "synccare-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "description": "SyncCare React Native app scaffold",
+  "scripts": {
+    "start": "echo 'React Native app scaffolded. Install dependencies and initialize native projects in the next step.'",
+    "test": "echo 'No frontend tests configured yet'"
+  }
+}

@@ -1,0 +1,13 @@
+# Maven
+**/target/
+
+# Node
+**/node_modules/
+
+# Logs
+*.log
+
+# OS/editor
+.DS_Store
+.idea/
+.vscode/
