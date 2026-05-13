@@ -1,0 +1,5 @@
+com/synccare/backend/SyncCareBackendApplication.class
+com/synccare/backend/health/HealthController.class
+com/synccare/backend/common/api/GlobalExceptionHandler.class
+com/synccare/backend/common/api/ApiResponse.class
+com/synccare/backend/security/SecurityConfig.class

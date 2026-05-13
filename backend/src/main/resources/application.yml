@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: synccare-backend
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      show-details: never
+server:
+  shutdown: graceful

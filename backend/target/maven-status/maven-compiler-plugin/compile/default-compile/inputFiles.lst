@@ -1,0 +1,5 @@
+/home/runner/work/SyncCare/SyncCare/backend/src/main/java/com/synccare/backend/SyncCareBackendApplication.java
+/home/runner/work/SyncCare/SyncCare/backend/src/main/java/com/synccare/backend/common/api/ApiResponse.java
+/home/runner/work/SyncCare/SyncCare/backend/src/main/java/com/synccare/backend/common/api/GlobalExceptionHandler.java
+/home/runner/work/SyncCare/SyncCare/backend/src/main/java/com/synccare/backend/health/HealthController.java
+/home/runner/work/SyncCare/SyncCare/backend/src/main/java/com/synccare/backend/security/SecurityConfig.java
